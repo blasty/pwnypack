@@ -12,3 +12,4 @@ from pwnypack.fmtstring import *
 from pwnypack.php import *
 from pwnypack.pickle import *
 from pwny import bc
+from pwny import sc
